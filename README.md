@@ -1,7 +1,11 @@
 ### Ni-hao[^1], I'm Naphthol Mizuha 👋
 
 - 📖 Educated in 🇨🇳[SYSU](www.sysu.edu.cn).
-- ⌨️ Learning Rust/Python/C/Golang.
+- ⌨️ Learning 
+  - 🦀️ Rust
+  - 🐍 Python
+  - 🐱 C
+  - 🐿️ Golang
 - 🥺 Interested in System Development and Frontend Development.
 - 🌏 Using Chinese/Poor English/Little Japanese.
 - 📫 How to reach me: **naphthol@foxmail.com**.
