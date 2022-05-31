@@ -1,6 +1,6 @@
 ### Ni-hao[^1], I'm Naphthol Mizuha 👋
 
-- 📖 Educated in 🇨🇳[SYSU](www.sysu.edu.cn).
+- 📖 Educated in 🇨🇳[SYSU](https://www.sysu.edu.cn).
 - ⌨️ Learning 
   - 🦀️ Rust
   - 🐍 Python
