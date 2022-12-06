@@ -1,4 +1,4 @@
-### Ni-hao[^1], I'm Naphthol Mizuha 👋
+### Nihao[^1], I'm Naphthol Mizuha 👋
 
 - 📖 Educated in 🇨🇳 [SYSU](https://www.sysu.edu.cn)(Sun Yat-sen University).
 - ⌨️ Learning 
