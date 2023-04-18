@@ -6,7 +6,7 @@
   - 🐍 Python
   - 🐱 C
   - 🐿️ Golang
-- 🥺 Interested in System Development and Frontend Development.
+- 🥺 Interested in Federated Learning and Privacy Protection.
 - 🌏 Using Chinese/Poor English/Little Japanese.
 - 📫 How to reach me: **naphthol@foxmail.com**.
 [^1]:Chinese word _你好_, meaning _hello_.
